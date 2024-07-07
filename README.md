@@ -15,7 +15,7 @@ Desktop
 <img width="560" alt="desktop7" src="https://github.com/Ziyauddin189/flutter_portfolio_web/assets/112611879/f8be3be0-d6f7-4f60-a5d4-4cb1d109c3b6">
 
 Mobile
-<img src="https://github.com/Ziyauddin189/flutter_portfolio_web/assets/112611879/5dbd5768-c77e-49cf-8f95-699ff7485c14" alt="mobile1" width="200" height="300">
+<img src="https://github.com/Ziyauddin189/flutter_portfolio_web/assets/112611879/5dbd5768-c77e-49cf-8f95-699ff7485c14" alt="mobile1" width="100" height="400">
 
 ![mobile1](https://github.com/Ziyauddin189/flutter_portfolio_web/assets/112611879/5dbd5768-c77e-49cf-8f95-699ff7485c14)
 ![mobile2](https://github.com/Ziyauddin189/flutter_portfolio_web/assets/112611879/651bc781-28bf-46e9-b355-9baaf23ae627)
