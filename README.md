@@ -2,6 +2,8 @@
 
 Personal Portfolio app using Flutter version 3.13.0
 
+Figma --> https://www.figma.com/file/WmNvoKw2BSExCPcnLI1P5N/AeroVision---Personal-Portfolio-Landing-Page-(FREE-DOWLOAD)-(Community)?type=design&node-id=0-1&mode=design&t=mKv3axvQJ57Hn2H9-0
+
 ## Desktop 💻
 <p align="left">
   <img src="https://github.com/Ziyauddin189/flutter_portfolio_web/assets/112611879/3d68fa2d-2e3f-487a-966e-d5a537759c2f" height="300" width="400" />
@@ -15,26 +17,24 @@ Personal Portfolio app using Flutter version 3.13.0
 
 ## Mobile 📲
 <p align="left">
-  <img src="https://github.com/Ziyauddin189/flutter_portfolio_web/assets/112611879/5dbd5768-c77e-49cf-8f95-699ff7485c14" height="300" width="400" />
-  <img src="https://github.com/Ziyauddin189/flutter_portfolio_web/assets/112611879/651bc781-28bf-46e9-b355-9baaf23ae627" height="300" width="400" />
-  <img src="https://github.com/Ziyauddin189/flutter_portfolio_web/assets/112611879/113018ce-c154-4650-9d62-bb57bf7e1498" height="300" width="400" />
-  <img src="https://github.com/Ziyauddin189/flutter_portfolio_web/assets/112611879/23c3423b-ee79-4cfd-a8f7-262e82174fdb" height="300" width="400" />
-  <img src="https://github.com/Ziyauddin189/flutter_portfolio_web/assets/112611879/3355af26-b77b-41d5-b9c0-a54523dba205" height="300" width="400" />
-  <img src="https://github.com/Ziyauddin189/flutter_portfolio_web/assets/112611879/7e59f4e6-7603-4b3c-a44c-1d6c59a58ed4" height="300" width="400" />
-  <img src="https://github.com/Ziyauddin189/flutter_portfolio_web/assets/112611879/0e556e46-c144-4b48-b8de-6c37df1ba667" height="300" width="400" />
-
-  <img src="https://github.com/Ziyauddin189/flutter_portfolio_web/assets/112611879/f074006c-2798-4d42-b0c3-4cba68534f51" height="300" width="400" />
-   <img src="https://github.com/Ziyauddin189/flutter_portfolio_web/assets/112611879/1cbc3ee8-73f8-42de-bd71-f0e8a1723b18" height="300" width="400" />
-    <img src="https://github.com/Ziyauddin189/flutter_portfolio_web/assets/112611879/0776c688-8836-40f9-9100-1dff89a98e33" height="300" width="400" />
+  <img src="https://github.com/Ziyauddin189/flutter_portfolio_web/assets/112611879/5dbd5768-c77e-49cf-8f95-699ff7485c14" height="500" width="200" />
+  <img src="https://github.com/Ziyauddin189/flutter_portfolio_web/assets/112611879/651bc781-28bf-46e9-b355-9baaf23ae627" height="500" width="200" />
+  <img src="https://github.com/Ziyauddin189/flutter_portfolio_web/assets/112611879/113018ce-c154-4650-9d62-bb57bf7e1498" height="500" width="200" />
+  <img src="https://github.com/Ziyauddin189/flutter_portfolio_web/assets/112611879/3355af26-b77b-41d5-b9c0-a54523dba205" height="500" width="200" />
+  <img src="https://github.com/Ziyauddin189/flutter_portfolio_web/assets/112611879/7e59f4e6-7603-4b3c-a44c-1d6c59a58ed4" height="500" width="200" />
+  <img src="https://github.com/Ziyauddin189/flutter_portfolio_web/assets/112611879/0e556e46-c144-4b48-b8de-6c37df1ba667" height="500" width="200" />
+  <img src="https://github.com/Ziyauddin189/flutter_portfolio_web/assets/112611879/f074006c-2798-4d42-b0c3-4cba68534f51" height="500" width="200" />
+   <img src="https://github.com/Ziyauddin189/flutter_portfolio_web/assets/112611879/1cbc3ee8-73f8-42de-bd71-f0e8a1723b18" height="500" width="200" />
+    <img src="https://github.com/Ziyauddin189/flutter_portfolio_web/assets/112611879/0776c688-8836-40f9-9100-1dff89a98e33" height="500" width="200" />
 </p>
 
 
 ## Features
-- API integration with Exception handling
-- MVVM architecture with stacked library
-- Checking Internet connectivity
-- Add to favorites using Hive database
-- Responsive UI
+Responsive UI across
+- Desktop
+- Android
+- ios
+
 
 ## Running the App
 
@@ -44,31 +44,6 @@ To run the app on an Android device or emulator, use the following command:
 ```sh
 flutter run
 
-
-
-
-
-# flutter_web
-
-A new Flutter project.
-
-Figma --> https://www.figma.com/file/WmNvoKw2BSExCPcnLI1P5N/AeroVision---Personal-Portfolio-Landing-Page-(FREE-DOWLOAD)-(Community)?type=design&node-id=0-1&mode=design&t=mKv3axvQJ57Hn2H9-0
-
-Desktop
-
-
-
-
-
-
-
-
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
