@@ -1,3 +1,38 @@
+# Personal Portfolio👨‍💻
+
+Personal Portfolio app using Flutter version 3.13.0
+
+<p align="left">
+  <img src="https://github.com/Ziyauddin189/flutter_portfolio_web/assets/112611879/3d68fa2d-2e3f-487a-966e-d5a537759c2f" height="400" width="200" />
+  <img src="https://github.com/Ziyauddin189/flutter_portfolio_web/assets/112611879/3d68fa2d-2e3f-487a-966e-d5a537759c2f" height="400" width="200" />
+  <img src="https://github.com/Ziyauddin189/flutter_portfolio_web/assets/112611879/63dcdba3-1d36-46ce-a6fc-4e20dd724065" height="400" width="200" />
+  <img src="https://github.com/Ziyauddin189/flutter_portfolio_web/assets/112611879/177f67ca-a663-4c20-be93-e63f690e9144" height="400" width="200" />
+  <img src="https://github.com/Ziyauddin189/flutter_portfolio_web/assets/112611879/23c3423b-ee79-4cfd-a8f7-262e82174fdb" height="400" width="200" />
+  <img src="https://github.com/Ziyauddin189/flutter_portfolio_web/assets/112611879/01e1ba00-57a3-4c58-844d-9527e8097887" height="400" width="200" />
+  <img src="https://github.com/Ziyauddin189/flutter_portfolio_web/assets/112611879/87b9d6d8-c2c6-42e1-a2c5-3fc77eb12228" height="400" width="200" />
+  <img src="https://github.com/Ziyauddin189/flutter_portfolio_web/assets/112611879/f8be3be0-d6f7-4f60-a5d4-4cb1d109c3b6" height="400" width="200" />
+</p>
+
+
+## Features
+- API integration with Exception handling
+- MVVM architecture with stacked library
+- Checking Internet connectivity
+- Add to favorites using Hive database
+- Responsive UI
+
+## Running the App
+
+### Android
+To run the app on an Android device or emulator, use the following command:
+
+```sh
+flutter run
+
+
+
+
+
 # flutter_web
 
 A new Flutter project.
@@ -6,13 +41,7 @@ Figma --> https://www.figma.com/file/WmNvoKw2BSExCPcnLI1P5N/AeroVision---Persona
 
 Desktop
 
-<img width="560" alt="desktop1" src="https://github.com/Ziyauddin189/flutter_portfolio_web/assets/112611879/3d68fa2d-2e3f-487a-966e-d5a537759c2f">
-<img width="560" alt="desktop2" src="https://github.com/Ziyauddin189/flutter_portfolio_web/assets/112611879/63dcdba3-1d36-46ce-a6fc-4e20dd724065">
-<img width="560" alt="desktop3" src="https://github.com/Ziyauddin189/flutter_portfolio_web/assets/112611879/177f67ca-a663-4c20-be93-e63f690e9144">
-<img width="560" alt="desktop4" src="https://github.com/Ziyauddin189/flutter_portfolio_web/assets/112611879/23c3423b-ee79-4cfd-a8f7-262e82174fdb">
-<img width="560" alt="desktop5" src="https://github.com/Ziyauddin189/flutter_portfolio_web/assets/112611879/01e1ba00-57a3-4c58-844d-9527e8097887">
-<img width="560" alt="desktop6" src="https://github.com/Ziyauddin189/flutter_portfolio_web/assets/112611879/87b9d6d8-c2c6-42e1-a2c5-3fc77eb12228">
-<img width="560" alt="desktop7" src="https://github.com/Ziyauddin189/flutter_portfolio_web/assets/112611879/f8be3be0-d6f7-4f60-a5d4-4cb1d109c3b6">
+
 
 Mobile
 <img src="https://github.com/Ziyauddin189/flutter_portfolio_web/assets/112611879/5dbd5768-c77e-49cf-8f95-699ff7485c14" alt="mobile1" width="100" height="400">
